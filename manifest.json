@@ -2,9 +2,14 @@
   "name": "Bible Verse of the Day",
   "version": "1.1.1",
   "description": "bible verse of the day",
-  "permissions": [],
   "chrome_url_overrides" : {
     "newtab": "index.html"
+  },
+  "icons": {
+    "16": "images/bible-icon-16.png",
+    "32": "images/bible-icon-32.png",
+    "64": "images/bible-icon-64.png",
+    "128": "images/bible-icon-128.png"
   },
   "manifest_version": 2
 }
