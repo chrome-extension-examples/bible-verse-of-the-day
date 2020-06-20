@@ -1,0 +1,10 @@
+{
+  "name": "Bible Verse of the Day",
+  "version": "1.1.1",
+  "description": "bible verse of the day",
+  "permissions": [],
+  "chrome_url_overrides" : {
+    "newtab": "index.html"
+  },
+  "manifest_version": 2
+}
